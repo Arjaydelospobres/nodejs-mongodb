@@ -1,0 +1,3 @@
+Fri, Jun 09 2023 12:05 PM GMT+0800	59769c2b-a2fc-49de-a962-7189f8319fbd	OPTIONS	http://localhost:3000	/register
+Fri, Jun 09 2023 12:05 PM GMT+0800	d72162b6-a5e3-4f4e-b32b-f8fe62e7b121	POST	http://localhost:3000	/register
+Fri, Jun 09 2023 12:30 PM GMT+0800	4c15acc7-acc9-4bb6-9663-e81557fdd1f4	POST	undefined	/auth
